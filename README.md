@@ -20,7 +20,7 @@ Class based
 return results array
 
 
-* - Don't need if we need only word's similar variants (because SQL LIKE operator solves these)
+*Don't need if we need only word's similar variants (because SQL LIKE operator solves these)
 
 #******************** Algorithm finished ********************#
 
